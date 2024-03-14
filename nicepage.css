@@ -42414,64 +42414,125 @@ a.u-link.u-text-hover-grey-90:hover {
   margin: -5px 98px 60px auto;
 }
 @media (max-width: 1199px) {
+  .u-header .u-sheet-1 {
+    min-height: 103px;
+  }
+
   .u-header .u-menu-1 {
     width: auto;
-    margin-right: 87px;
+    margin-top: 47px;
+    margin-right: 80px;
   }
 
   .u-header .u-image-1 {
-    margin-top: -62px;
-    margin-left: 12px;
+    width: 470px;
+    margin-top: -71px;
+    margin-left: 55px;
   }
 
   .u-header .u-line-1 {
     margin-top: -53px;
-    margin-right: 365px;
+    margin-right: auto;
+    margin-left: 543px;
   }
 
   .u-header .u-line-2 {
-    margin-right: 218px;
+    margin-right: auto;
+    margin-left: 655px;
   }
 
   .u-header .u-line-3 {
-    margin-right: 98px;
+    margin-right: auto;
+    margin-bottom: 33px;
+    margin-left: 803px;
   }
 }
+@media (max-width: 991px) {
+  .u-header .u-sheet-1 {
+    min-height: 144px;
+  }
 
+  .u-header .u-menu-1 {
+    margin-top: 34px;
+  }
+
+  .u-header .u-image-1 {
+    width: 570px;
+    margin-top: -53px;
+    margin-left: 0;
+  }
+
+  .u-header .u-line-1 {
+    margin-top: 0;
+    margin-right: 228px;
+    margin-left: auto;
+  }
+
+  .u-header .u-line-2 {
+    margin-left: 47px;
+  }
+
+  .u-header .u-line-3 {
+    margin-bottom: 21px;
+    margin-left: 225px;
+  }
+}
 @media (max-width: 767px) {
   .u-header .u-sheet-1 {
-    min-height: 93px;
+    min-height: 139px;
+  }
+
+  .u-header .u-menu-1 {
+    margin-top: 14px;
+    margin-right: 53px;
   }
 
   .u-header .u-image-1 {
     width: 540px;
     height: 67px;
-    margin-left: 0;
+    margin-top: -112px;
   }
 
   .u-header .u-line-1 {
-    margin-top: -49px;
+    margin-top: 20px;
+  }
+
+  .u-header .u-line-3 {
+    margin-bottom: -38px;
   }
 }
 @media (max-width: 575px) {
   .u-header .u-sheet-1 {
-    min-height: 68px;
+    min-height: 147px;
   }
 
   .u-header .u-menu-1 {
+    margin-top: 82px;
     margin-right: auto;
   }
 
   .u-header .u-image-1 {
     height: 42px;
+    margin-top: -118px;
     margin-right: initial;
     margin-left: initial;
     width: auto;
   }
 
   .u-header .u-line-1 {
-    margin-top: 38px;
-    margin-right: 265px;
+    margin-top: 4px;
+    margin-right: auto;
+    margin-left: 20px;
+  }
+
+  .u-header .u-line-2 {
+    margin-left: 103px;
+  }
+
+  .u-header .u-line-3 {
+    margin-right: 36px;
+    margin-bottom: 60px;
+    margin-left: auto;
   }
 }
  .u-footer {
