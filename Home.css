@@ -32,11 +32,6 @@
 }
 
 .u-section-1 .u-btn-1 {
-  background-image: none;
-  padding: 0;
-}
-
-.u-section-1 .u-btn-2 {
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 1px;
@@ -44,7 +39,7 @@
   margin: 27px auto 0 38px;
 }
 
-.u-section-1 .u-btn-3 {
+.u-section-1 .u-btn-2 {
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 1px;
@@ -219,11 +214,11 @@
     margin-right: 0;
   }
 
-  .u-section-1 .u-btn-2 {
+  .u-section-1 .u-btn-1 {
     margin-left: 0;
   }
 
-  .u-section-1 .u-btn-3 {
+  .u-section-1 .u-btn-2 {
     margin-right: 0;
   }
 }
@@ -238,11 +233,11 @@
     font-size: 1.875rem;
   }
 
-  .u-section-1 .u-btn-2 {
+  .u-section-1 .u-btn-1 {
     margin-left: auto;
   }
 
-  .u-section-1 .u-btn-3 {
+  .u-section-1 .u-btn-2 {
     margin-top: 18px;
     margin-right: auto;
   }
