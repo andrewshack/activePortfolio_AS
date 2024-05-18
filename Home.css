@@ -1,5 +1,7 @@
  .u-section-1 {
-  background-image: none;
+  background-image: url("images/Image9.png");
+  background-position: 50% 50%;
+  background-size: 125%;
 }
 
 .u-section-1 .u-sheet-1 {
